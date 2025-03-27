@@ -1,1 +1,2 @@
-# mern-stack-notes
+# MERN-stack-Notes
+A MERN stack notes
